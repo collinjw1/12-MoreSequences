@@ -5,8 +5,8 @@ one item at a time, using the ACCUMULATOR pattern.
         sequences, namely by MUTATING their elements.
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Jonathan Collins.
+"""  # Done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import rosegraphics as rg
 
@@ -14,8 +14,8 @@ import rosegraphics as rg
 def main():
     """ Calls the various   TEST   functions in this module. """
     run_test_make_simple_list()
-    run_test_make_simple_string()
-    run_test_make_less_simple_string()
+    #run_test_make_simple_string()
+    #run_test_make_less_simple_string()
 
     # ------------------------------------------------------------------
     # TODO: 8. Uncomment the tests below before working TO DO 9.
